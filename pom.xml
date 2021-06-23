@@ -14,7 +14,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven-shade-plugin.version>3.2.1</maven-shade-plugin.version>
-		<jetty.version>9.4.0.v20161208</jetty.version>
+		<jetty.version>9.4.41.v20210516</jetty.version>
 		<jersey.version>2.25</jersey.version>
 
 		<maven.compiler.source>1.8</maven.compiler.source>
